@@ -1,33 +1,33 @@
 # BullyRoom_3d_unity
 
-#Objetivo
+# Objetivo
 
 Recriar o quarto do Jimmy, personagem principal do jogo Bully, da Rockstar. Todos objetos foram modelados no 3dsMax e colocado para rodar no Unity
 
-#Scripts
+# Scripts
 
-###Cadeira
+### Cadeira
 >Ao clicar na cadeira ela se move para trás e ao clicar de novo ela volta para o lugar
 
-###Esc
+### Esc
 >Simples script para sair do jogando apertando a tecla "esc"
 
-###Interruptor
+### Interruptor
 >Script para acender a apagar as luzes do quarto
 
-###Quadros
+### Quadros
 >Ao clicar 5 vezes nos quadros da parede um objeto aparecerá no meio deles
 
-###Relogio
+### Relogio
 >Chegando perto do relógio ele começa a subir até chegar perto do teto e fica flutuando
 
-###Menu
+### Menu
 >Script para tela antes de começar o jogo
 
-###LivroSave
+### LivroSave
 >Ao passar pelo livro em cima da mesa do Jimmy uma música de Save toca
 
-###Music
+### Music
 >Quando entrar no jogo toca de fundo a música tema do Bully
 
 
