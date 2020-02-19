@@ -2,7 +2,7 @@
 
 # Objetivo
 
-Recriar o quarto do Jimmy, personagem principal do jogo Bully, da Rockstar. Todos objetos foram modelados no 3dsMax e colocado para rodar no Unity
+Recriar o quarto do Jimmy, personagem principal do jogo Bully, da Rockstar. Todos objetos foram modelados no 3dsMax e simulados no Unity
 
 # Scripts
 
